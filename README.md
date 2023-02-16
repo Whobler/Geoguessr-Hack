@@ -2,6 +2,8 @@
 This script is compatible with Tampermonkey
 
 ## To use this script:
+## You need to request access to the Development Server from https://cors-anywhere.herokuapp.com/
+
 Press '1' in game to place a pin on a location that will randomly score you between 4500 to 5000 score. (pressing "guess" is required to guess)
 
 Press '2' in game to place a pin on a location that will exactly score 5000 points. (pressing "guess" is required to guess)
